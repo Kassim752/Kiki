@@ -36,7 +36,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ], 
         [
             InlineKeyboardButton(text="ʜᴇʟᴩ", callback_data="settings_back_helper"),
-            InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url=f"https://t.me/Toxic_iXi")
+            InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url=f"https://t.me/DarlzzzBots")
         ],
      ]
     return buttons
